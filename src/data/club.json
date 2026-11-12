@@ -1,0 +1,38 @@
+{
+  "siteUrl": "https://buzaclub.at",
+  "name": "Buza Club",
+  "fullName": "Kickboxing klub Team Buza",
+  "established": 2016,
+  "price": 100,
+  "currency": "EUR",
+  "freeSessions": 3,
+  "minAge": 5,
+  "classDays": [1, 3, 5],
+  "startTime": "18:00",
+  "info": {
+    "address": {
+      "street": "Villacher Straße 127",
+      "zip": "9020",
+      "city": "Klagenfurt"
+    },
+    "phone": "066 777 11 802",
+    "phoneHref": "tel:+436677711802",
+    "email": "kbkteambuza@gmail.com",
+    "facebook": "Kickboxing klub Team Buza",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villacher+Stra%C3%9Fe+127+9020+Klagenfurt"
+  },
+  "images": {
+    "hero": "/images/training-kick.jpg",
+    "kids": "/images/training-kids.jpg",
+    "pads": "/images/pads.jpg",
+    "team": "/images/team.jpg",
+    "poster": "/images/poster.jpg"
+  },
+  "photos": [
+    { "src": "/images/team.jpg", "width": 1024, "height": 559 },
+    { "src": "/images/pads.jpg", "width": 868, "height": 1024 },
+    { "src": "/images/training-kick.jpg", "width": 862, "height": 1024 },
+    { "src": "/images/training-kids.jpg", "width": 859, "height": 1024 },
+    { "src": "/images/poster.jpg", "width": 893, "height": 1024 }
+  ]
+}

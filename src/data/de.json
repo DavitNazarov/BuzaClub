@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Buza Club — Kickboxen · K1 · Muay Thai in Klagenfurt",
+    "description": "Buza Club — Elite Kickboxing, K1 und Muay Thai in Klagenfurt. Kinder ab 5 und Erwachsene. 100 € pro Monat. Erste Woche gratis.",
+    "pages": {
+      "training": {
+        "title": "Kickboxen, K1 & Muay Thai Training in Klagenfurt — Buza Club",
+        "description": "Gruppentraining in K1, Kickboxing, Muay Thai, Boxen und Selbstverteidigung für Kinder ab 5 und Erwachsene. Mo, Mi & Fr ab 18:00 Uhr in Klagenfurt. Erste Woche gratis."
+      },
+      "team": {
+        "title": "Trainer & Team — Buza Club Klagenfurt",
+        "description": "Lerne Coach Buza und Coach Erik kennen — erfahrene Kickboxing-, K1- und Muay-Thai-Trainer im Buza Club in Klagenfurt. Technik zuerst, Respekt immer."
+      },
+      "membership": {
+        "title": "Mitgliedschaft & Preise: 100 € pro Monat — Buza Club Klagenfurt",
+        "description": "Eine einfache Mitgliedschaft: 100 € pro Monat für alle Gruppenkurse in K1, Kickboxing und Muay Thai. Kinder und Erwachsene. Erste Woche gratis — 3 Einheiten, unverbindlich."
+      },
+      "gallery": {
+        "title": "Galerie — Einblicke in den Buza Club Klagenfurt",
+        "description": "Fotos vom Training, vom Team und vom Gym in der Villacher Straße 127 in Klagenfurt — Kickboxen für Kinder und Erwachsene."
+      },
+      "contact": {
+        "title": "Kontakt & Anfahrt — Buza Club Klagenfurt",
+        "description": "Villacher Straße 127, 9020 Klagenfurt. Ruf an unter 066 777 11 802 oder schreib an kbkteambuza@gmail.com — wir holen dich auf die Matte."
+      }
+    }
+  },
+  "ui": {
+    "homeLabel": "Buza Club Startseite",
+    "mainNav": "Hauptnavigation",
+    "mobileNav": "Mobile Navigation",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen",
+    "language": "Sprache",
+    "joinCta": "Gratis-Woche",
+    "close": "Schließen",
+    "previous": "Vorheriges Bild",
+    "next": "Nächstes Bild"
+  },
+  "nav": [
+    { "label": "Training", "to": "/training" },
+    { "label": "Team", "to": "/team" },
+    { "label": "Mitgliedschaft", "to": "/membership" },
+    { "label": "Galerie", "to": "/gallery" },
+    { "label": "Kontakt", "to": "/contact" }
+  ],
+  "pages": {
+    "training": {
+      "label": "Training",
+      "title": "Trainiere, als ob es zählt.",
+      "lead": "K1, Kickboxing und Muay Thai für Kinder und Erwachsene — strukturiert, fordernd und herzlich."
+    },
+    "team": {
+      "label": "Team",
+      "title": "Die Menschen hinter den Pratzen.",
+      "lead": "Erfahrene Trainer und ein Club, der gemeinsam trainiert."
+    },
+    "membership": {
+      "label": "Mitgliedschaft",
+      "title": "Ein Preis. Voller Zugang.",
+      "lead": "Keine komplizierten Tarife. Eine einfache Mitgliedschaft und eine gratis erste Woche."
+    },
+    "gallery": {
+      "label": "Galerie",
+      "title": "Im Club.",
+      "lead": "Training, Team und der Ort, den wir Zuhause nennen."
+    },
+    "contact": {
+      "label": "Kontakt",
+      "title": "Komm vorbei.",
+      "lead": "Schreib uns oder ruf an — wir holen dich auf die Matte."
+    }
+  },
+  "hero": {
+    "label": "Kickboxing · K1 · Muay Thai — Klagenfurt",
+    "tagline": "Elite-Striking. Echte Kampfintelligenz.",
+    "ctaPrimary": "Gratis-Woche starten",
+    "ctaSecondary": "Trainingszeiten",
+    "scroll": "Scrollen"
+  },
+  "intro": {
+    "label": "Der Club",
+    "text": "Ein Kickboxclub in Klagenfurt für alle, die richtig trainieren wollen. Kinder ab fünf, Erwachsene jedes Levels. Erst Technik, immer Respekt — und ein Team, das hinter dir steht.",
+    "link": "Das Team kennenlernen"
+  },
+  "stats": {
+    "years": "Jahre stark",
+    "days": "Trainingstage / Woche",
+    "age": "Kinder willkommen ab",
+    "price": "Euro / Monat"
+  },
+  "disciplines": {
+    "label": "Disziplinen",
+    "title": "Was wir trainieren",
+    "lead": "Vom ersten Schritt auf die Matte bis zum Kampfabend.",
+    "link": "Gesamtes Training",
+    "items": [
+      {
+        "id": "k1",
+        "name": "K1",
+        "description": "Explosives Regelwerk — Fäuste, Tritte, Knie. Wettkampfreifes Training."
+      },
+      {
+        "id": "kickboxing",
+        "name": "Kickboxing",
+        "description": "Technik, Kraft und Kondition. Vom ersten Pratzentraining bis zum Kampfabend."
+      },
+      {
+        "id": "muay-thai",
+        "name": "Muay Thai",
+        "description": "Die Kunst der acht Gliedmaßen — Clinch, Ellbogen und wuchtige Tritte."
+      },
+      {
+        "id": "boxing",
+        "name": "Boxen",
+        "description": "Handschnelligkeit, Beinarbeit und Defensive. Die Grundlagen schärfen."
+      },
+      {
+        "id": "self-defense",
+        "name": "Selbstverteidigung",
+        "description": "Praxisnahe Selbstverteidigung für reale Situationen — für jedes Alter und Level."
+      }
+    ]
+  },
+  "band": {
+    "caption": "Ein Club. Ein Team."
+  },
+  "coaches": {
+    "label": "Trainer",
+    "title": "Deine Ecke",
+    "lead": "Erfahren, fordernd und immer in deiner Ecke.",
+    "bgWord": "TRAINER",
+    "link": "Das Team kennenlernen",
+    "items": [
+      {
+        "id": "buza",
+        "name": "Coach Buza",
+        "role": "Cheftrainer",
+        "bio": "Leitet das Pratzentraining und die Kampfvorbereitung. Erst Technik, dann Power — jede Runde hat einen Zweck.",
+        "tags": ["K1", "Kickboxing", "Pratzentraining", "Kampfvorbereitung"],
+        "image": "/images/pads.jpg",
+        "position": "25% 35%"
+      },
+      {
+        "id": "erik",
+        "name": "Erik",
+        "role": "Trainer · Kickboxing & Muay Thai",
+        "bio": "Führt die jüngsten Kämpfer mit Geduld, Grundlagen und viel Spaß in ihre ersten Handschuhe.",
+        "tags": ["Muay Thai", "Kinder", "Grundlagen", "Kondition"],
+        "image": "/images/training-kids.jpg",
+        "position": "12% 35%"
+      }
+    ]
+  },
+  "values": {
+    "label": "Prinzipien",
+    "title": "Wie wir trainieren",
+    "items": [
+      {
+        "title": "Erst Technik",
+        "text": "Saubere Grundlagen vor Power. Jede Einheit baut auf der letzten auf."
+      },
+      {
+        "title": "Immer Respekt",
+        "text": "Vor Trainern, Partnern und der Matte. Anfänger und Kämpfer trainieren Seite an Seite."
+      },
+      {
+        "title": "Echte Disziplin",
+        "text": "Auftauchen, hart arbeiten, besser werden. Kinder und Erwachsene lernen dieselbe Lektion."
+      }
+    ]
+  },
+  "groups": {
+    "label": "Gruppen",
+    "title": "Für jedes Level",
+    "lead": "Kinder ab 5 Jahren und Erwachsene — Damen & Herren.",
+    "items": [
+      {
+        "id": "kids",
+        "name": "Kinder & Jugendliche",
+        "audience": "Kinder ab 5 Jahren & Jugendliche",
+        "description": "Disziplin, Selbstvertrauen und Spaß — begleitet von erfahrenen Trainern.",
+        "image": "/images/training-kids.jpg",
+        "position": "12% 35%"
+      },
+      {
+        "id": "adults",
+        "name": "Erwachsene",
+        "audience": "Damen & Herren",
+        "description": "Ernsthaftes Training für Damen und Herren — Anfänger willkommen, Kämpfer gefordert.",
+        "image": "/images/pads.jpg",
+        "position": "50% 30%"
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Mitgliedschaft",
+    "title": "Ein Preis. Voller Zugang.",
+    "lead": "Alle Gruppenstunden — K1, Kickboxing und Muay Thai.",
+    "includes": [
+      "Alle Gruppenstunden",
+      "K1, Kickboxing & Muay Thai",
+      "Kinder- und Erwachsenengruppen",
+      "Wettkampfvorbereitung"
+    ],
+    "perMonth": "pro Monat",
+    "offerLabel": "Gratis testen",
+    "offerTitle": "1 Woche gratis Training",
+    "offerDetail": "3 Einheiten — Aktion jetzt starten.",
+    "cta": "Jetzt anfragen",
+    "link": "Mitgliedschaft im Detail"
+  },
+  "schedule": {
+    "label": "Termine",
+    "title": "Wann wir trainieren",
+    "lead": "Gruppenstunden unter der Woche — Privattraining nach Vereinbarung.",
+    "days": [
+      { "short": "Mo", "full": "Montag" },
+      { "short": "Mi", "full": "Mittwoch" },
+      { "short": "Fr", "full": "Freitag" }
+    ],
+    "from": "Ab",
+    "timeSuffix": "Uhr",
+    "today": "Heute",
+    "privateTitle": "Privattraining",
+    "privateNote": "Nach Vereinbarung"
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Gut zu wissen",
+    "items": [
+      {
+        "q": "Brauche ich Erfahrung?",
+        "a": "Nein. Anfänger sind willkommen — wir starten mit den Grundlagen und bauen darauf auf."
+      },
+      {
+        "q": "Wie funktioniert die Gratis-Woche?",
+        "a": "In deiner ersten Woche kannst du kostenlos an 3 Einheiten teilnehmen. Ohne Verpflichtung."
+      },
+      {
+        "q": "Ab welchem Alter können Kinder trainieren?",
+        "a": "Kinder können ab 5 Jahren einsteigen, in Gruppen, die für sie gemacht sind."
+      },
+      {
+        "q": "Was soll ich mitbringen?",
+        "a": "Sportkleidung, Wasser und ein Handtuch. Frag uns vor der ersten Einheit nach Handschuhen und Schienbeinschonern."
+      },
+      {
+        "q": "Ist Privattraining möglich?",
+        "a": "Ja, nach Vereinbarung. Melde dich bei uns und wir finden einen Termin."
+      },
+      {
+        "q": "Wo trainiert ihr?",
+        "a": "Villacher Straße 127, 9020 Klagenfurt."
+      }
+    ]
+  },
+  "gallery": {
+    "alts": [
+      "Das Team des Buza Club posiert gemeinsam in der Halle",
+      "Trainer hält Pratzen für einen jungen Kickboxer",
+      "Junge Kämpferin tritt auf die Pratzen",
+      "Trainer Erik trainiert einen jungen Boxer",
+      "Das Fensterplakat des Buza Club in der Villacher Straße"
+    ]
+  },
+  "cta": {
+    "label": "Gratis testen",
+    "title": "Probiere eine Gratis-Woche.",
+    "text": "3 Einheiten. Ohne Verpflichtung. Komm einfach vorbei.",
+    "button": "Kontakt aufnehmen"
+  },
+  "contact": {
+    "label": "Kontakt",
+    "address": "Adresse",
+    "country": "Österreich",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "facebook": "Facebook",
+    "callCta": "Jetzt anrufen",
+    "routeCta": "Route planen",
+    "posterAlt": "Das Fensterplakat des Buza Club mit Disziplinen, Zielgruppen und Terminen",
+    "posterCaption": "Such dieses Fenster in der Villacher Straße.",
+    "form": {
+      "title": "Nachricht senden",
+      "name": "Dein Name",
+      "email": "Deine E-Mail",
+      "message": "Nachricht",
+      "send": "Nachricht senden",
+      "hint": "Das öffnet dein E-Mail-Programm mit der fertigen Nachricht.",
+      "subject": "Buza Club — Nachricht von"
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "explore": "Entdecken",
+    "visit": "Besuchen",
+    "follow": "Folgen"
+  }
+}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Page-specific title, description, canonical, Open Graph, Twitter Card and
+         JSON-LD are generated per route at build time (scripts/seo, src/lib/seo.js). -->
+    <!--seo:head-->
+
+    <meta name="author" content="Buza Club" />
+    <meta name="application-name" content="Buza Club" />
+    <meta name="apple-mobile-web-app-title" content="Buza Club" />
+    <meta name="theme-color" content="#050a1f" />
+    <meta name="format-detection" content="telephone=yes" />
+    <meta name="geo.region" content="AT-2" />
+    <meta name="geo.placename" content="Klagenfurt" />
+
+    <link rel="icon" type="image/svg+xml" href="/fist.svg" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM-readable summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter+Tight:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Crawler-readable copy of the page lives in #root; keep it out of sight. -->
+    <style>
+      .seo-static {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        padding: 0;
+        overflow: hidden;
+        clip-path: inset(50%);
+        white-space: nowrap;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"><!--seo:body--></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

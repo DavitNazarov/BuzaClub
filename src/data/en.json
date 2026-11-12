@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Buza Club — Kickboxing · K1 · Muay Thai in Klagenfurt",
+    "description": "Buza Club — elite Kickboxing, K1 and Muay Thai in Klagenfurt. Kids from 5 and adults. €100 per month. First week free.",
+    "pages": {
+      "training": {
+        "title": "Kickboxing, K1 & Muay Thai Training in Klagenfurt — Buza Club",
+        "description": "Group classes in K1, Kickboxing, Muay Thai, Boxing and Self-defense for kids from 5 and adults. Mon, Wed & Fri from 18:00 in Klagenfurt. First week free."
+      },
+      "team": {
+        "title": "Coaches & Team — Buza Club Klagenfurt",
+        "description": "Meet Coach Buza and Coach Erik — experienced Kickboxing, K1 and Muay Thai coaches at Buza Club in Klagenfurt. Technique first, respect always."
+      },
+      "membership": {
+        "title": "Membership & Prices: €100 per Month — Buza Club Klagenfurt",
+        "description": "One simple membership: €100 per month for all group classes in K1, Kickboxing and Muay Thai. Kids and adults. First week free — 3 sessions, no commitment."
+      },
+      "gallery": {
+        "title": "Gallery — Inside Buza Club Klagenfurt",
+        "description": "Photos of training, the team and the gym at Villacher Straße 127 in Klagenfurt — kickboxing for kids and adults."
+      },
+      "contact": {
+        "title": "Contact & Directions — Buza Club Klagenfurt",
+        "description": "Villacher Straße 127, 9020 Klagenfurt. Call 066 777 11 802 or write to kbkteambuza@gmail.com — we'll get you on the mat."
+      }
+    }
+  },
+  "ui": {
+    "homeLabel": "Buza Club home",
+    "mainNav": "Main navigation",
+    "mobileNav": "Mobile navigation",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "language": "Language",
+    "joinCta": "Free week",
+    "close": "Close",
+    "previous": "Previous image",
+    "next": "Next image"
+  },
+  "nav": [
+    { "label": "Training", "to": "/training" },
+    { "label": "Team", "to": "/team" },
+    { "label": "Membership", "to": "/membership" },
+    { "label": "Gallery", "to": "/gallery" },
+    { "label": "Contact", "to": "/contact" }
+  ],
+  "pages": {
+    "training": {
+      "label": "Training",
+      "title": "Train like it matters.",
+      "lead": "K1, Kickboxing and Muay Thai for kids and adults — structured, demanding and welcoming."
+    },
+    "team": {
+      "label": "Team",
+      "title": "The people behind the pads.",
+      "lead": "Experienced coaches and a club that trains together."
+    },
+    "membership": {
+      "label": "Membership",
+      "title": "One price. Full access.",
+      "lead": "No complicated tiers. One simple membership and a free first week."
+    },
+    "gallery": {
+      "label": "Gallery",
+      "title": "Inside the club.",
+      "lead": "Training, team and the place we call home."
+    },
+    "contact": {
+      "label": "Contact",
+      "title": "Come by.",
+      "lead": "Write or call — we'll get you on the mat."
+    }
+  },
+  "hero": {
+    "label": "Kickboxing · K1 · Muay Thai — Klagenfurt",
+    "tagline": "Elite striking. Real fight IQ.",
+    "ctaPrimary": "Start your free week",
+    "ctaSecondary": "Training times",
+    "scroll": "Scroll"
+  },
+  "intro": {
+    "label": "The club",
+    "text": "A kickboxing club in Klagenfurt for people who want to train properly. Kids from five, adults of every level. Technique first, respect always — and a team that has your back.",
+    "link": "Meet the team"
+  },
+  "stats": {
+    "years": "Years strong",
+    "days": "Training days / week",
+    "age": "Kids welcome from",
+    "price": "Euro / month"
+  },
+  "disciplines": {
+    "label": "Disciplines",
+    "title": "What we train",
+    "lead": "From your first step on the mat to fight night.",
+    "link": "All training",
+    "items": [
+      {
+        "id": "k1",
+        "name": "K1",
+        "description": "Explosive ruleset striking — punches, kicks, knees. Competition-ready training."
+      },
+      {
+        "id": "kickboxing",
+        "name": "Kickboxing",
+        "description": "Technique, power and conditioning. From first pads to fight night."
+      },
+      {
+        "id": "muay-thai",
+        "name": "Muay Thai",
+        "description": "The art of eight limbs — clinch, elbows and devastating kicks."
+      },
+      {
+        "id": "boxing",
+        "name": "Boxing",
+        "description": "Hand speed, footwork and defense. Sharpen the fundamentals."
+      },
+      {
+        "id": "self-defense",
+        "name": "Self-defense",
+        "description": "Practical self-defense for real situations — for every age and level."
+      }
+    ]
+  },
+  "band": {
+    "caption": "One club. One team."
+  },
+  "coaches": {
+    "label": "Coaches",
+    "title": "Meet your corner",
+    "lead": "Experienced, demanding, and always in your corner.",
+    "bgWord": "COACHES",
+    "link": "Meet the team",
+    "items": [
+      {
+        "id": "buza",
+        "name": "Coach Buza",
+        "role": "Head Coach",
+        "bio": "Leads the pad work and fight preparation. Technique first, then power — every round has a purpose.",
+        "tags": ["K1", "Kickboxing", "Pad work", "Fight prep"],
+        "image": "/images/pads.jpg",
+        "position": "25% 35%"
+      },
+      {
+        "id": "erik",
+        "name": "Erik",
+        "role": "Coach · Kickboxing & Muay Thai",
+        "bio": "Brings the youngest fighters into their first gloves with patience, fundamentals and a lot of fun.",
+        "tags": ["Muay Thai", "Kids", "Fundamentals", "Conditioning"],
+        "image": "/images/training-kids.jpg",
+        "position": "12% 35%"
+      }
+    ]
+  },
+  "values": {
+    "label": "Principles",
+    "title": "How we train",
+    "items": [
+      {
+        "title": "Technique first",
+        "text": "Clean fundamentals before power. Every session builds on the last."
+      },
+      {
+        "title": "Respect always",
+        "text": "For coaches, partners and the mat. Beginners and fighters train side by side."
+      },
+      {
+        "title": "Real discipline",
+        "text": "Show up, work hard, improve. Kids and adults learn the same lesson."
+      }
+    ]
+  },
+  "groups": {
+    "label": "Groups",
+    "title": "Every level has a place",
+    "lead": "Kids from age 5 and adults — women and men.",
+    "items": [
+      {
+        "id": "kids",
+        "name": "Kids & Youth",
+        "audience": "Children from 5 & teenagers",
+        "description": "Discipline, confidence and fun — guided by experienced coaches.",
+        "image": "/images/training-kids.jpg",
+        "position": "12% 35%"
+      },
+      {
+        "id": "adults",
+        "name": "Adults",
+        "audience": "Women & men",
+        "description": "Serious sessions for women and men — beginners welcome, fighters pushed.",
+        "image": "/images/pads.jpg",
+        "position": "50% 30%"
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Membership",
+    "title": "One price. Full access.",
+    "lead": "All group classes — K1, Kickboxing and Muay Thai.",
+    "includes": [
+      "All group classes",
+      "K1, Kickboxing & Muay Thai",
+      "Kids and adult groups",
+      "Competition preparation"
+    ],
+    "perMonth": "per month",
+    "offerLabel": "Free trial",
+    "offerTitle": "1 week free training",
+    "offerDetail": "3 sessions — start the offer now.",
+    "cta": "Ask now",
+    "link": "Membership details"
+  },
+  "schedule": {
+    "label": "Schedule",
+    "title": "When we train",
+    "lead": "Group classes on weekday evenings — private training by arrangement.",
+    "days": [
+      { "short": "Mon", "full": "Monday" },
+      { "short": "Wed", "full": "Wednesday" },
+      { "short": "Fri", "full": "Friday" }
+    ],
+    "from": "From",
+    "timeSuffix": "",
+    "today": "Today",
+    "privateTitle": "Private training",
+    "privateNote": "By arrangement"
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Good to know",
+    "items": [
+      {
+        "q": "Do I need experience?",
+        "a": "No. Beginners are welcome — we start with the basics and build from there."
+      },
+      {
+        "q": "How does the free week work?",
+        "a": "In your first week you can join 3 sessions at no cost. No commitment."
+      },
+      {
+        "q": "From what age can children train?",
+        "a": "Children can join from age 5, in groups made for them."
+      },
+      {
+        "q": "What should I bring?",
+        "a": "Sports clothes, water and a towel. Ask us about gloves and shin guards before your first session."
+      },
+      {
+        "q": "Is private training possible?",
+        "a": "Yes, by arrangement. Get in touch and we'll find a time."
+      },
+      {
+        "q": "Where do you train?",
+        "a": "Villacher Straße 127, 9020 Klagenfurt."
+      }
+    ]
+  },
+  "gallery": {
+    "alts": [
+      "The Buza Club team posing together in the gym",
+      "Coach holding pads for a young kickboxer",
+      "Young fighter throwing a kick at the pads",
+      "Coach Erik training a young boxer",
+      "The Buza Club window poster on Villacher Straße"
+    ]
+  },
+  "cta": {
+    "label": "Free trial",
+    "title": "Try a free week.",
+    "text": "3 sessions. No commitment. Just show up.",
+    "button": "Get in touch"
+  },
+  "contact": {
+    "label": "Contact",
+    "address": "Address",
+    "country": "Austria",
+    "phone": "Phone",
+    "email": "Email",
+    "facebook": "Facebook",
+    "callCta": "Call now",
+    "routeCta": "Get directions",
+    "posterAlt": "The Buza Club window poster with disciplines, groups and opening times",
+    "posterCaption": "Look for this window on Villacher Straße.",
+    "form": {
+      "title": "Send a message",
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Message",
+      "send": "Send message",
+      "hint": "This opens your email app with the message ready to send.",
+      "subject": "Buza Club — message from"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "explore": "Explore",
+    "visit": "Visit",
+    "follow": "Follow"
+  }
+}
